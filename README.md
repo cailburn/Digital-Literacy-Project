@@ -26,11 +26,18 @@ For Task 3, I chose to use HackerRank and solved a beginner‑level coding chall
 
 While solving it, I used the built‑in editor, ran sample test cases, and then submitted the code to check it against hidden test cases. This experience showed me how online judges work and how small mistakes in logic or syntax can cause test case failures. It was a simple task, but it made me more confident about using coding platforms regularly for practice.
 
+ I also created a short Google Form quiz on Digital Literacy and shared it with my friends. The quiz had simple multiple‑choice and short‑answer questions on topics like safe internet use, strong passwords, phishing, useful digital tools, and professional online behaviour. After they submitted, I checked the responses to see which concepts were clear and where many people were still confused.
+
 Link to **Google Forms**
 ```
 https://docs.google.com/forms/d/e/1FAIpQLSeyGEXhHqAWlpLwOluY85t_QDYeJDIxXIY2w1R8OItz7x_PBw/viewform?usp=publish-editor
 ```
 ---
 ## Task 4 - Draft a Professional Email & Etiquette Guide
+
+For Task 4, I drafted two professional emails and created a checklist for responsible social media use. Email 1 is from a student to a professor, politely requesting an extension on an assignment deadline. It follows proper email etiquette with a clear subject line, respectful greeting, brief explanation of the situation, a specific request for a new deadline, and a thankful closing with the student’s full name and details. Email 2 is written to an internship coordinator at a company, expressing interest in a summer internship opportunity. It introduces the student, mentions their course and skills, connects them to the role, and ends by requesting further information or next steps in a professional tone. I also created a checklist for social media with at least five Do’s  and five Don’ts, focusing on responsible behaviour as a college student.
+
 ---
 ## Task 5 - Cybercrime Awareness Case Study & Prevention Guide
+
+For Task 5, I created a short case study on cyberbullying and a practical “Stay Safe Online” checklist. The case study describes a situation where a student is repeatedly targeted through hurtful messages, edited images, and humiliating posts on social media, leading to stress, anxiety, and a drop in academic performance. It highlights how bystanders staying silent and sharing screenshots made the problem worse, and explains the steps that could help, like blocking the bully, saving evidence, reporting the behaviour to the platform, and informing trusted adults or college authorities. Along with this, I designed a “Stay Safe Online” checklist that includes habits such as using strong unique passwords, enabling two‑factor authentication, thinking before clicking links, checking privacy settings, avoiding oversharing personal information, and being respectful and kind in all digital communication.
