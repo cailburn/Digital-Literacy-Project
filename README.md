@@ -16,8 +16,15 @@ https://prezi.com/p/zzkmlui3i0ju/?present=1
 ```
 ---
 ## Task 2 - Build Your Student Digital Portfolio
+
+For Task 2, I created accounts on three important platforms: Kaggle, LinkedIn, and GitHub. Kaggle is a platform for data science and machine learning, so I signed up using my email, completed the basic profile, and can now access datasets, notebooks, and competitions. LinkedIn is for building a professional online presence; I created an account with my real name, added my course details, skills, and a short summary so I can connect with students, alumni, and recruiters. GitHub is used for storing and sharing code, so I registered with a username, set up my profile, and can now create repositories for my C, C++, Python, and DSA projects. Together, these three accounts will help me learn, showcase my work, and connect with the tech community.
+
 ---
 ## Task 3 - Explore Coding & Collaboration Platforms 
+
+For Task 3, I chose to use HackerRank and solved a beginner‑level coding challenge. The platform gives many practice problems in different languages, so I picked an easy question and tried it first in **C++** and then in Python to compare my approach. The problem focused on basic concepts like input/output, loops, and conditional statements, which helped me revise my fundamentals.
+
+While solving it, I used the built‑in editor, ran sample test cases, and then submitted the code to check it against hidden test cases. This experience showed me how online judges work and how small mistakes in logic or syntax can cause test case failures. It was a simple task, but it made me more confident about using coding platforms regularly for practice.
 
 Link to **Google Forms**
 ```
